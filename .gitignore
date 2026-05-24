@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+
+# Local environment
+.env
+.env.*
+!.env.example
+!.env.exemple
+
+# Editor files
+.idea/
+
+# CodeCrafters scaffold
+.codecrafters/
+codecrafters.yml
+your_program.sh
