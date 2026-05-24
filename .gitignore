@@ -9,8 +9,3 @@ node_modules/
 
 # Editor files
 .idea/
-
-# CodeCrafters scaffold
-.codecrafters/
-codecrafters.yml
-your_program.sh
